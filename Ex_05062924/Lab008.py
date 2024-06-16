@@ -5,4 +5,4 @@ print(name)
 
 last = input("enter your last name")
 print(last)
-print(name, "is" ,last)
+print (name, "is" ,last)
