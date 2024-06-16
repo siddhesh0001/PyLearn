@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f010997-74b4-4e7a-a03b-c455f3e9cd68" name="Changes" comment="Addmin Lab001">
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Program001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_05062924/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_05062924/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Program001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Program001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +65,7 @@
     "Python.Lab014.executor": "Run",
     "Python.Lab015.executor": "Run",
     "Python.Program001.executor": "Run",
+    "Python.Task002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -147,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718132949650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Addmin Lab001">
+      <option name="closed" value="true" />
+      <created>1718526804448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718526804448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
