@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f010997-74b4-4e7a-a03b-c455f3e9cd68" name="Changes" comment="Addmin Lab001">
-      <change afterPath="$PROJECT_DIR$/Ex_14042024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14042024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14042024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14042024/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14042024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14042024/Lab026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +72,10 @@
     "Python.Lab020.executor": "Run",
     "Python.Lab021.executor": "Run",
     "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
     "Python.Practise002.executor": "Run",
     "Python.Program001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -223,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718649152506</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Addmin Lab001">
+      <option name="closed" value="true" />
+      <created>1718740359300</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718740359300</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
