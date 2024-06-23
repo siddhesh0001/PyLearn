@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f010997-74b4-4e7a-a03b-c455f3e9cd68" name="Changes" comment="Addmin Lab001">
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task_004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Task_005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab30.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Task_003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_12062024/Task_003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +76,7 @@
     "Python.Lab027.executor": "Run",
     "Python.Lab028.executor": "Run",
     "Python.Lab029.executor": "Run",
+    "Python.Lab30.executor": "Run",
     "Python.Practise002.executor": "Run",
     "Python.Program001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -176,7 +172,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -253,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718863963033</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Addmin Lab001">
+      <option name="closed" value="true" />
+      <created>1718990363713</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718990363713</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
