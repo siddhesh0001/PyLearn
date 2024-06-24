@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f010997-74b4-4e7a-a03b-c455f3e9cd68" name="Changes" comment="Addmin Lab001">
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab42.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +87,12 @@
     "Python.Lab34.executor": "Run",
     "Python.Lab35.executor": "Run",
     "Python.Lab36.executor": "Run",
+    "Python.Lab37.executor": "Run",
+    "Python.Lab38.executor": "Run",
+    "Python.Lab39.executor": "Run",
+    "Python.Lab40.executor": "Run",
+    "Python.Lab41.executor": "Run",
+    "Python.Lab42.executor": "Run",
     "Python.Practise002.executor": "Run",
     "Python.Program001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -346,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719122652763</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Addmin Lab001">
+      <option name="closed" value="true" />
+      <created>1719145714159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719145714159</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
