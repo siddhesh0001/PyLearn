@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f010997-74b4-4e7a-a03b-c455f3e9cd68" name="Changes" comment="Addmin Lab001">
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26042024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab56.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_24062024/Lab49.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_24062024/Lab49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_26042024.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_28062024/Lab54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab51.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab52.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab53.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab53.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +104,8 @@
     "Python.Lab51.executor": "Run",
     "Python.Lab52.executor": "Run",
     "Python.Lab53.executor": "Run",
+    "Python.Lab54.executor": "Run",
+    "Python.Lab55.executor": "Run",
     "Python.Practise002.executor": "Run",
     "Python.Program001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -118,6 +120,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sid\PycharmProjects\PyLearn\Ex_26062024" />
       <recent name="C:\Users\Sid\PycharmProjects\PyLearn" />
       <recent name="C:\Users\Sid\PycharmProjects\PyLearn\Ex_05062924" />
     </key>
@@ -393,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719345091251</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Addmin Lab001">
+      <option name="closed" value="true" />
+      <created>1719743340417</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719743340417</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -407,21 +418,6 @@
           <url>file://$PROJECT_DIR$/EX_24062024/Lab49.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EX_24062024/Lab49.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EX_24062024/Lab49.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EX_24062024/Lab49.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
