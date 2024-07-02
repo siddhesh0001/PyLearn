@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f010997-74b4-4e7a-a03b-c455f3e9cd68" name="Changes" comment="Addmin Lab001">
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010720224/Lab60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab59.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_26042024.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_28062024/Lab54.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab51.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab51.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab52.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab52.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab53.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_28062024/Lab56.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_28062024/Lab56.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,73 +50,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Debug",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022.executor": "Run",
-    "Python.Lab023.executor": "Run",
-    "Python.Lab024.executor": "Run",
-    "Python.Lab025.executor": "Run",
-    "Python.Lab026.executor": "Run",
-    "Python.Lab027.executor": "Run",
-    "Python.Lab028.executor": "Run",
-    "Python.Lab029.executor": "Run",
-    "Python.Lab032.executor": "Run",
-    "Python.Lab30.executor": "Run",
-    "Python.Lab31.executor": "Run",
-    "Python.Lab33.executor": "Run",
-    "Python.Lab34.executor": "Run",
-    "Python.Lab35.executor": "Run",
-    "Python.Lab36.executor": "Run",
-    "Python.Lab37.executor": "Run",
-    "Python.Lab38.executor": "Run",
-    "Python.Lab39.executor": "Run",
-    "Python.Lab40.executor": "Run",
-    "Python.Lab41.executor": "Run",
-    "Python.Lab42.executor": "Run",
-    "Python.Lab43.executor": "Run",
-    "Python.Lab44.executor": "Run",
-    "Python.Lab45.executor": "Run",
-    "Python.Lab46.executor": "Run",
-    "Python.Lab47.executor": "Run",
-    "Python.Lab49.executor": "Debug",
-    "Python.Lab50.executor": "Run",
-    "Python.Lab51.executor": "Run",
-    "Python.Lab52.executor": "Run",
-    "Python.Lab53.executor": "Run",
-    "Python.Lab54.executor": "Run",
-    "Python.Lab55.executor": "Run",
-    "Python.Practise002.executor": "Run",
-    "Python.Program001.executor": "Run",
-    "Python.Task002.executor": "Run",
-    "Python.Task_003.executor": "Run",
-    "Python.Task_004.executor": "Run",
-    "Python.Task_005.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab37.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab49.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab50.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab52.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab56.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab58.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab59.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practise002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Program001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_005.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sid\PycharmProjects\PyLearn\Ex_26062024" />
@@ -125,7 +127,7 @@
       <recent name="C:\Users\Sid\PycharmProjects\PyLearn\Ex_05062924" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab003">
     <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyLearn" />
       <option name="ENV_FILES" value="" />
@@ -404,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719743340417</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Addmin Lab001">
+      <option name="closed" value="true" />
+      <created>1719760735726</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719760735726</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
